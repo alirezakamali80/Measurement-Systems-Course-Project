@@ -25,7 +25,7 @@ The project's theoretical section included a detailed discussion of the box diag
 
 The circuits were simulated using Fritzing and Proteus software. Below is an example of the simulation result in Proteus:
 
-![Proteus Simulation Result](./images/ProteusResult.png)
+![Proteus Simulation Result](./images/ProteusResult.PNG)
 
 ### 4. Limitations
 
@@ -43,7 +43,7 @@ The designed circuits were constructed and tested in real-world conditions. Seve
 
 Below is the constructed circuit setup:
 
-![Constructed Circuit Setup](./images/FinalSetup.png)
+![Constructed Circuit Setup](./images/FinalSetup.PNG)
 
 ### 2. Performance and Challenges
 
@@ -56,7 +56,7 @@ The performance of the circuits in practical conditions differed significantly f
 
 Here's an image of the actual circuit:
 
-![Circuit](./images/Circuit.png)
+![Circuit](./images/Circuit.PNG)
 
 ### 3. Application Example
 
